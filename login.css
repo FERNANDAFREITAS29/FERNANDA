@@ -19,14 +19,15 @@ body{
 }
 
 .login{
-    background-color: aliceblue(50,20,25);
-    margin-top: 10px;
-    margin-top: 10px;
-    padding: 250px;
-    margin-top: 250;
-    margin-top: 250px;
-    border-radius: 10px;
+    background-color: green;
+    margin-top: 5px;
+    margin-top: 2px;
+    padding: 80px;
+    margin-top: 100;
+    margin-top: 100px;
+    border-radius: 15px;
     text-align: center;
+    align-items: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -82,9 +83,11 @@ input:hover{
     height: 100px;
     width: 80px;
     padding: 40px;
+    margin: 100px;
     margin-bottom: 10px;
     justify-content: center;
     flex-direction: row;
+    
 
 
 }
